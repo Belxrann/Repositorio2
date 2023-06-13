@@ -5,6 +5,7 @@ public class Mascota {
     private int higiene;
     private int peso;
     private String raza;
+    private int numeroDavid;
 
     public Mascota(String raza) {
         this.raza = raza;
